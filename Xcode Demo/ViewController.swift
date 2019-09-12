@@ -12,6 +12,11 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        var fullName = "Gavin Murphy"
+        print("My name is \(fullName)")
+        
+        
         // Do any additional setup after loading the view.
     }
 
