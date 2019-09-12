@@ -13,6 +13,17 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+//        Shortcuts
+//        command + option + shift : choose where to open a file
+//        command + /  : comment/uncomment a line of code
+//        control + t : transpose (flip) characters on either side of cursor
+//        control + command + e  :  edit all text in scope
+//        option + arrow key : can jump words
+//        double click + highlight : highlights whole words
+//        triple click + highlight : highlights whole lines
+//        control + I : re-indent selection
+//        command + [ or ] : move indentation left or right
+        
         var fullName = "Gavin Murphy"
         print("My name is \(fullName)")
         
